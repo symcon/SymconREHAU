@@ -25,8 +25,9 @@ Das Modul dient zum Empfangen und Schalten von NEA Smart Daten.
 
 ### 3. Software-Installation
 
-Über das Modul-Control folgende URL hinzufügen.
-`https://github.com/symcon/SymconREHAU.git`
+* Über den Modul Store das Modul REHAU Nea Smart installieren.
+* Alternativ über das Modul Control folgende URL hinzufügen:
+´https://github.com/symcon/SymconREHAU`
 
 ### 4. Einrichten der Instanzen in IP-Symcon
 
