@@ -3,6 +3,9 @@
     "author": "REHAU",
     "name": "REHAU",
     "url": "",
+    "compatibility": {
+            "version": "4.2"
+    },
     "version": "1.0",
     "build": 0,
     "date": 0
