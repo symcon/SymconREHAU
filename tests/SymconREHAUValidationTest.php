@@ -8,8 +8,8 @@ class SymconREHAUValidationTest extends TestCaseSymconValidation
     {
         $this->validateLibrary(__DIR__ . '/..');
     }
-    public function testValidateNEAsmartModule(): void
+    public function testValidateNEASmartModule(): void
     {
-        $this->validateModule(__DIR__ . '/../NEAsmart');
+        $this->validateModule(__DIR__ . '/../NEASmart');
     }
 }
