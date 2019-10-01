@@ -1,6 +1,10 @@
 # NEA Smart
-Das Modul dient zum Empfangen und Schalten von NEA Smart Daten.
 
+[![IP-Symcon is awesome!](https://img.shields.io/badge/IP--Symcon-4.0-blue.svg)](https://www.symcon.de)
+[![Check Style](https://github.com/symcon/SymconREHAU/workflows/Check%20Style/badge.svg)](https://github.com/symcon/SymconREHAU/actions)
+[![Run Tests](https://github.com/symcon/SymconREHAU/workflows/Run%20Tests/badge.svg)](https://github.com/symcon/SymconREHAU/actions)
+
+Das Modul dient zum Empfangen und Schalten von NEA Smart Daten.
 
 ### Inhaltsverzeichnis
 
