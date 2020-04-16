@@ -35,7 +35,7 @@ Das Modul dient zum Empfangen und Schalten von NEA Smart Daten.
 
 ### 4. Einrichten der Instanzen in IP-Symcon
 
-- Unter "Instanz hinzufügen" ist das 'NEA Smart'-Modul unter dem Hersteller 'REHAU' aufgeführt.
+- Unter "Instanz hinzufügen" kann das 'NEA Smart'-Modul mithilfe der Schnellsuche gefunden werden.
 
 __Konfigurationsseite__:
 
