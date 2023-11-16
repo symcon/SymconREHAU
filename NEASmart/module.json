@@ -3,8 +3,7 @@
     "name": "NEASmart",
     "type": 3,
     "vendor": "REHAU",
-    "aliases": 
-    [
+    "aliases": [
         "NEA Smart"
     ],
     "parentRequirements": [],
