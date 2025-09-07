@@ -6,5 +6,5 @@
 
 Folgende Module beinhaltet das NEA Smart Repository:
 
-- __NEASmart__ ([Dokumentation](https://www.symcon.de/de/service/dokumentation/modulreferenz/nea-smart)) 
+- __NEASmart__ ([Dokumentation](https://www.symcon.de/de/service/dokumentation/modulreferenz/nea-smart/)) 
 Das Modul dient zum Empfangen und Schalten von NEA Smart Daten.
